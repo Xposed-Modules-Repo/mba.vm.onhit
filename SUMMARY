@@ -1,0 +1,3 @@
+Trigger Android NFC events without a physical tag by Xposed.
+
+在无物理标签的情况下触发Android的NFC事件。
