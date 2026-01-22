@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="onhit-logo.svg" alt="icon" width="150" />
+<img src="https://raw.githubusercontent.com/0penPublic/onHit/refs/heads/main/onhit-logo.svg" alt="icon" width="150" />
 
 ![Release Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/mba.vm.onhit/total?style=flat-square)
 ![Release Download](https://img.shields.io/github/downloads/0penPublic/onHit/total?style=flat-square)
