@@ -108,3 +108,13 @@ You may use, modify, and redistribute this software under the terms of GPLv2.
 Any derivative work must also be distributed under the same license.
 
 See the `LICENSE` file for full license text.
+
+## Star History
+
+<a href="https://www.star-history.com/#0penPublic/onHit&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0penPublic/onHit&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0penPublic/onHit&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0penPublic/onHit&type=date&legend=top-left" />
+ </picture>
+</a>
